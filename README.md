@@ -4,7 +4,7 @@ The materials for the lighting talk presentations are linked here:
 
 ## Lighting Talk Sessions
 
-### Javascript API based developments for improving your Alfresco experience Lightning talk (5 minutes)
+### Javascript API based developments for improving your Alfresco experience
 
 Alfresco is a fantastic suite for collaboration. Nevertheless, final and business users require frequently several modifications of the Alfresco interface and functionality OOTB, to customize and, in best cases, to improve Alfresco. In the presentation, I will talk about a set of Alfresco addons, that came from different conversations with clients. They are simple customizations of Alfresco that may be also a a good starting point for developing in Alfresco with Javascript API. All the addons presented are open source licensed and published in github.
 
@@ -27,7 +27,7 @@ Besises of its functionality interest, the above developments provides simple ex
 
 that may be used as training pills for Alfresco developers.
 
-### Sinadura ECM: Protocol-based signatures for Alfresco Lightning talk (5 minutes)
+### Sinadura ECM: Protocol-based signatures for Alfresco
 
 Sinadura 5 is a popular java desktop client for signing documents. One of the new features of the last version is the addition to the main installer of a new mini-client designed for the web. This mini client was developed for the replacement of the java applet technology, by a protocol-based signature registered in your operating system. In this talk, we show the integration and possibilities of Sinadura 5 with Alfresco Share, relating to its advanced signature properties, profiles and visible stamps.
 
