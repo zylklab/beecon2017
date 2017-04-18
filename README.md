@@ -16,7 +16,7 @@ The list of presented addons is the following:
   - Public url documents with effectivity --> https://github.com/zylklab/zk-qshared-effectivity
   - Short URLs for Alfresco Share --> https://github.com/zylklab/zk-url-shortener
 
-Besises of its functionality interest, the above developments provides simple examples of Alfresco extensions such as:
+Beside of its functionality interest, the above developments provides simple examples of Alfresco extensions such as:
   - Content models in Alfresco with its corresponding forms config (Shortable or Statusable Aspect)
   - Content behaviours (Public URLs with expiration & Short URLs)
   - JS-based Actions (Edit online with Libreoffice)
