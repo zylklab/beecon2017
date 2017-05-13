@@ -27,6 +27,9 @@ Beside of its functionality interest, the above developments provides simple exa
 
 that may be used as training pills for Alfresco developers.
 
+Presentation at Beecon 2017:
+ - https://www.slideshare.net/zylk/javascript-api-based-developments-for-improving-your-alfresco-experience
+
 ### Sinadura ECM: Protocol-based signatures for Alfresco
 
 Sinadura 5 is a popular java desktop client for signing documents. One of the new features of the last version is the addition to the main installer of a new mini-client designed for the web. This mini client was developed for the replacement of the java applet technology, by a protocol-based signature registered in your operating system. In this talk, we show the integration and possibilities of Sinadura 5 with Alfresco Share, relating to its advanced signature properties, profiles and visible stamps.
@@ -34,7 +37,9 @@ Sinadura 5 is a popular java desktop client for signing documents. One of the ne
 The main project involves the installation of two AMPs, a war for sinadura services (sinaduraCloud.war) and a desktop client for digital signature:
 
   - https://github.com/zylklab/alfresco-sinadura
-
+  
+Presentation at Beecon 2017:
+  - https://www.slideshare.net/zylk/sinadura-ecm-protocolbased-signatures-for-alfresco-5
 
 ## About the author
 
@@ -42,3 +47,4 @@ Cesar Capillas is IT/Solution Architect at zylk.net, an OOTB member working with
 
  - Linkedin Profile - https://www.linkedin.com/in/cesarcapillas/
  - Company Website  - http://www.zylk.net/es/home
+ - Alfresco Blog    - http://www.zylk.net/alfresco-blog
